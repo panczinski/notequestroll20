@@ -1,2 +1,9 @@
-@{Nome}, O @{Raça} @{Classe} - atacará com um(a) @{Arma}. Ele causa [[@{Dano}]] de dano. <!-- Código do Botão de Ataque -->
-Obs. Personalize o gênero do personagem e da arma mudando o texto acima.
+@{Nome}, O @{Raça} @{Classe} - atacará com um(a) @{Arma}. Ele causa [[@{Dano}]] de dano. <!-- ersonalize o gênero do personagem e da arma mudando o texto acima. -->
+
+--Magias--
+@{Nome}, O @{Raça} @{Classe} - Usa a magia Cura e recupera 6PV.
+@{Nome}, O @{Raça} @{Classe} - Usa a magia Tranca Mágica e tranca/destranca a porta.
+@{Nome}, O @{Raça} @{Classe} - Usa a magia Teletransporte e retorna para outra sala.
+@{Nome}, O @{Raça} @{Classe} - Usa seu Raio de Gelo e causa 4 de dano, o inimigo não irá atacar no próximo turno.
+@{Nome}, O @{Raça} @{Classe} - Usa seu Relâmpago e causa 6 de dano.
+@{Nome}, O @{Raça} @{Classe} - Usa sua Bola de Fogo e causa 5 de dano em todos os oponentes.
