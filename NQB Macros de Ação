@@ -3,8 +3,8 @@
 image06
 
 --Magias--
-&{template:default}{{name=@{Nome} uso a magia}}{{Cura= Recupera 6PV}} <!-- Magia de Cura -->
-@{Nome}, O @{Raça} @{Classe} - Usa a magia Cura e recupera 6PV.
+&{template:default}{{name=@{Nome} usou a magia}}{{Cura= Recupera 6PV}} 
+&{template:default}{{name=@{Nome} usou a magia}}{{Tranca Mágica= Trancou/Destrancou a porta}} 
 @{Nome}, O @{Raça} @{Classe} - Usa a magia Tranca Mágica e tranca/destranca a porta.
 @{Nome}, O @{Raça} @{Classe} - Usa a magia Teletransporte e retorna para outra sala.
 @{Nome}, O @{Raça} @{Classe} - Usa seu Raio de Gelo e causa 4 de dano, o inimigo não irá atacar no próximo turno.
