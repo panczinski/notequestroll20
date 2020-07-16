@@ -3,7 +3,7 @@
 image06
 
 --Magias--
-&{template:default}{{name=@{Nome} uso a magia}}{{Cura= Recupera 6PV}} 
+&{template:default}{{name=@{Nome} uso a magia}}{{Cura= Recupera 6PV}} <!-- Magia de Cura -->
 @{Nome}, O @{Raça} @{Classe} - Usa a magia Cura e recupera 6PV.
 @{Nome}, O @{Raça} @{Classe} - Usa a magia Tranca Mágica e tranca/destranca a porta.
 @{Nome}, O @{Raça} @{Classe} - Usa a magia Teletransporte e retorna para outra sala.
