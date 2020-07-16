@@ -5,12 +5,12 @@ image06
 --Magias--
 &{template:default}{{name=@{Nome} usou a magia}}{{Cura= Recupera 6PV}} 
 &{template:default}{{name=@{Nome} usou a magia}}{{Tranca Mágica= Trancou/Destrancou a porta}} 
-@{Nome}, O @{Raça} @{Classe} - Usa a magia Tranca Mágica e tranca/destranca a porta.
-@{Nome}, O @{Raça} @{Classe} - Usa a magia Teletransporte e retorna para outra sala.
-@{Nome}, O @{Raça} @{Classe} - Usa seu Raio de Gelo e causa 4 de dano, o inimigo não irá atacar no próximo turno.
-@{Nome}, O @{Raça} @{Classe} - Usa seu Relâmpago e causa 6 de dano.
-@{Nome}, O @{Raça} @{Classe} - Usa sua Bola de Fogo e causa 5 de dano em todos os oponentes.
+&{template:default}{{name=@{Nome} usou a magia}}{{Teletransporte= Voltou para outra sala}}
+&{template:default}{{name=@{Nome} usou a magia}}{{Raio de Gelo= Dano 4, inimigo não ataca no próximo turno}}
+&{template:default}{{name=@{Nome} usou a magia}}{{Relâmpago= Dano 6}}
+&{template:default}{{name=@{Nome} usou a magia}}{{Bola de Fogo= Dano 5, afeta todos inimigos na sala}}
 
 --Ações da Masmorra--
-@{Nome}, O @{Raça} @{Classe} - Gastou 1 tocha e abriu a porta sem fazer barulho. Se tiver monstros no local você ataca primeiro.
-@{Nome}, O @{Raça} @{Classe} - Quebrou a porta, alertando todos os monstros do local, eles atacam primeiro.
+&{template:default}{{name=@{Nome} Abriu a Porta}}{{Gaste 1 tocha. Se tiver inimigos no local, você ataca primeiro.}} 
+&{template:default}{{name=@{Nome} Quebrou a Porta}}{{Você não gasta tocha, mas alertou os inimigos na sala, eles atacam primeiro.}} 
+
