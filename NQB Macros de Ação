@@ -1,0 +1,2 @@
+@{Nome}, O @{Raça} @{Classe} - atacará com um(a) @{Arma}. Ele causa [[@{Dano}]] de dano. <!-- Código do Botão de Ataque -->
+Obs. Personalize o gênero do personagem e da arma mudando o texto acima.
