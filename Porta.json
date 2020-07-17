@@ -1,0 +1,31 @@
+{
+    "name": "Porta",
+    "showplayers": true,
+    "id": "-MCNjjYv4trdF3ZQkMMr",
+    "items": {
+        "-MCNjm6j9jqJieso9PDD": {
+            "id": "-MCNjm6j9jqJieso9PDD",
+            "name": "Está destrancada."
+        },
+        "-MCNjm86ULu6wXl4BU5C": {
+            "id": "-MCNjm86ULu6wXl4BU5C",
+            "name": "Está destrancada mas pode ter Armadilha"
+        },
+        "-MCNjpYTY-Eh4TANQHKJ": {
+            "id": "-MCNjpYTY-Eh4TANQHKJ",
+            "name": "Está destrancada"
+        },
+        "-MCNjp_8u5I3sc9MqJSb": {
+            "id": "-MCNjp_8u5I3sc9MqJSb",
+            "name": "Está Trancada"
+        },
+        "-MCNkIqsbhJB8F0R6mSp": {
+            "id": "-MCNkIqsbhJB8F0R6mSp",
+            "name": "Está destrancada."
+        },
+        "-MCNkLetz1qR-JOS5Fyx": {
+            "id": "-MCNkLetz1qR-JOS5Fyx",
+            "name": "Está trancada."
+        }
+    }
+}
