@@ -1,0 +1,31 @@
+{
+    "name": "escada-segmentos",
+    "showplayers": true,
+    "id": "-MCNm88Eu_E93PvcTUV-",
+    "items": {
+        "-MCNmlF7rzPYOn3R85H_": {
+            "id": "-MCNmlF7rzPYOn3R85H_",
+            "name": "Corredor com 1 porta, pode ter passagens secretas."
+        },
+        "-MCPZG7FzMuGikSXOvDJ": {
+            "id": "-MCPZG7FzMuGikSXOvDJ",
+            "name": "Corredor com 2 portas, pode ter passagens secretas."
+        },
+        "-MCPZOCBdFlpzQ3hEDWj": {
+            "id": "-MCPZOCBdFlpzQ3hEDWj",
+            "name": "Corredor com 2 portas, pode ter passagens secretas."
+        },
+        "-MCPZT6oRVNn1WPKR-pY": {
+            "id": "-MCPZT6oRVNn1WPKR-pY",
+            "name": "Corredor com 2 portas."
+        },
+        "-MCPZWaEh318bSFtDSdz": {
+            "id": "-MCPZWaEh318bSFtDSdz",
+            "name": "Corredor com 3 portas."
+        },
+        "-MCPZbzciWNIQ0MXOp-8": {
+            "id": "-MCPZbzciWNIQ0MXOp-8",
+            "name": "Corredor largo com 3 portas."
+        }
+    }
+}

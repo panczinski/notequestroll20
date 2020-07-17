@@ -1,0 +1,16 @@
+{
+    "name": "silêncio",
+    "showplayers": true,
+    "id": "-MCS3tuOtwXeojeS97Y4",
+    "items": {
+        "-MCSF_4k-esdu-IJ6xC3": {
+            "id": "-MCSF_4k-esdu-IJ6xC3",
+            "name": "você fez barulho e os inimigos da sala te notaram, eles atacam primeiro."
+        },
+        "-MCSFpz9r_aCWTDt6j6-": {
+            "id": "-MCSFpz9r_aCWTDt6j6-",
+            "name": "você conseguiu passar despercebido, pode coletar os tesouros da sala e abrir portas. Se cair em uma armadilha ou fazer barulho, os monstros da sala são alertados e te atacam primeiro.",
+            "weight": 5
+        }
+    }
+}
