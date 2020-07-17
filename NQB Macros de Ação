@@ -24,3 +24,10 @@
 
 &{template:default}{{name= @{Nome} moveu-se em silêncio}}{{ [[1d6]]= Se você tirou **mais que 1** os monstros não te viram e você pode passar pela sala sem ser detectado, pegando tesouro e abrindo portas. Caso falhe, os inimigos te veem e te atacam}}
 
+&{template:default}{{name=@{Nome} Evitou Armadilhas}} {{=Você gastou uma tocha, mas evitou qualquer armadilha da sala.}}
+
+&{template:default}{{name=@{Nome} Evitou Armadilhas}} {{=Você gastou uma tocha, para procurar passagens secretas}} {{=[[1t[tpassagens-secretas]]]}}
+
+
+
+
