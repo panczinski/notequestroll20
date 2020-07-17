@@ -1,32 +1,32 @@
-&{template:default}{{name=Ataque de @{Nome}, @{classe}}}{{Dano= [[@{Dano}]]}}
+**@{Nome}, @{Raça} @{Classe}** - Ataca o inimigo com @{Arma} e causa [[@{Dano}]] de dano.
 
 
 --Magias--
 
-&{template:default}{{name=@{Nome} usou a magia}}{{Cura= Recupera 6PV}}
+**@{Nome}, @{Raça} @{Classe}** - Usou a magia Cura e recuperou 6 PV.
 
-&{template:default}{{name=@{Nome} usou a magia}}{{Tranca Mágica= Trancou/Destrancou a porta}}
+**@{Nome}, @{Raça} @{Classe}** - Usou a magia Tranca Mágica e trancou/destrancou a porta.
 
-&{template:default}{{name=@{Nome} usou a magia}}{{Teletransporte= Voltou para outra sala}}
+**@{Nome}, @{Raça} @{Classe}** - Usou a magia Teletransporte e voltou para outra sala.
 
-&{template:default}{{name=@{Nome} usou a magia}}{{Raio de Gelo= Dano 4, inimigo não ataca no próximo turno}}
+**@{Nome}, @{Raça} @{Classe}** - Usou a magia **Raio de Gelo** e causou **4** de dano ao inimigo, no próximo turno ele não atacará.
 
-&{template:default}{{name=@{Nome} usou a magia}}{{Relâmpago= Dano 6}}
+**@{Nome}, @{Raça} @{Classe}** - Usou a magia **Relâmpago** e causou **6** de dano ao inimigo.
 
-&{template:default}{{name=@{Nome} usou a magia}}{{Bola de Fogo= Dano 5, afeta todos inimigos na sala}}
+**@{Nome}, @{Raça} @{Classe}** - Usou a magia **Bola de Fogo** e causou **5** de dano a todos os inimigos da sala.
 
 
 --Ações da Masmorra--
 
-&{template:default} {{name=@{Nome} Abriu a Porta}} {{=Gaste 1 tocha. Se tiver inimigos no local, você ataca primeiro.}}
+**@{Nome}, @{Raça} @{Classe}** - **Gastou 1 tocha** e abriu a porta, se tiver inimigos na sala, você ataca primeiro.
 
-&{template:default}{{name=@{Nome} Quebrou a Porta}} {{=Você não gasta tocha, mas alertou os inimigos na sala, eles atacam primeiro.}}
+**@{Nome}, @{Raça} @{Classe}** - Quebrou a porta, você fez muito barulho, os inimigos te atacam primeiro
 
-&{template:default}{{name= @{Nome} moveu-se em silêncio}}{{ [[1d6]]= Se você tirou **mais que 1** os monstros não te viram e você pode passar pela sala sem ser detectado, pegando tesouro e abrindo portas. Caso falhe, os inimigos te veem e te atacam}}
+**@{Nome}, @{Raça} @{Classe}** - Tentou mover-se em silêncio e [[1t[silêncio]]]
 
-&{template:default}{{name=@{Nome} Evitou Armadilhas}} {{=Você gastou uma tocha, mas evitou qualquer armadilha da sala.}}
+**@{Nome}, @{Raça} @{Classe}** - **Gastou 1 tocha** e conseguiu desarmar qualquer armadilha que a sala tivesse.
 
-&{template:default}{{name=@{Nome} Evitou Armadilhas}} {{=Você gastou uma tocha, para procurar passagens secretas}} {{=[[1t[tpassagens-secretas]]]}}
+**@{Nome}, @{Raça} @{Classe}** - **Gastou 1 tocha** e para procurar passagens secretas e [[1t[tpassagens-secretas]]]
 
 
 
