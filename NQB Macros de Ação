@@ -1,16 +1,26 @@
 &{template:default}{{name=Ataque de @{Nome}, @{classe}}}{{Dano= [[@{Dano}]]}}
 
-image06
 
 --Magias--
-&{template:default}{{name=@{Nome} usou a magia}}{{Cura= Recupera 6PV}} 
-&{template:default}{{name=@{Nome} usou a magia}}{{Tranca Mágica= Trancou/Destrancou a porta}} 
+
+&{template:default}{{name=@{Nome} usou a magia}}{{Cura= Recupera 6PV}}
+
+&{template:default}{{name=@{Nome} usou a magia}}{{Tranca Mágica= Trancou/Destrancou a porta}}
+
 &{template:default}{{name=@{Nome} usou a magia}}{{Teletransporte= Voltou para outra sala}}
+
 &{template:default}{{name=@{Nome} usou a magia}}{{Raio de Gelo= Dano 4, inimigo não ataca no próximo turno}}
+
 &{template:default}{{name=@{Nome} usou a magia}}{{Relâmpago= Dano 6}}
+
 &{template:default}{{name=@{Nome} usou a magia}}{{Bola de Fogo= Dano 5, afeta todos inimigos na sala}}
 
+
 --Ações da Masmorra--
-&{template:default}{{name=@{Nome} Abriu a Porta}}{{Gaste 1 tocha. Se tiver inimigos no local, você ataca primeiro.}} 
-&{template:default}{{name=@{Nome} Quebrou a Porta}}{{Você não gasta tocha, mas alertou os inimigos na sala, eles atacam primeiro.}} 
+
+&{template:default} {{name=@{Nome} Abriu a Porta}} {{=Gaste 1 tocha. Se tiver inimigos no local, você ataca primeiro.}}
+
+&{template:default}{{name=@{Nome} Quebrou a Porta}} {{=Você não gasta tocha, mas alertou os inimigos na sala, eles atacam primeiro.}}
+
+&{template:default}{{name= @{Nome} moveu-se em silêncio}}{{ [[1d6]]= Se você tirou **mais que 1** os monstros não te viram e você pode passar pela sala sem ser detectado, pegando tesouro e abrindo portas. Caso falhe, os inimigos te veem e te atacam}}
 
